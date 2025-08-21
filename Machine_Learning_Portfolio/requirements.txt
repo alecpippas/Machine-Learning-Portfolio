@@ -1,0 +1,19 @@
+# Core data science libraries
+numpy>=1.21.0
+pandas>=1.3.0
+
+# Visualization
+matplotlib>=3.4.0
+
+# Jupyter environment
+jupyter>=1.0.0
+ipykernel>=6.0.0
+
+# Optional: For enhanced plotting (if you want to add seaborn later)
+# seaborn>=0.11.0
+
+# Optional: For statistical analysis (if you want to add scipy later)
+# scipy>=1.7.0
+
+# Optional: For machine learning (if you want to add scikit-learn later)
+# scikit-learn>=1.0.0
