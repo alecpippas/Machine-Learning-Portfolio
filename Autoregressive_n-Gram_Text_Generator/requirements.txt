@@ -1,0 +1,25 @@
+# Autoregressive n-Gram Text Generator Requirements
+# Core Python libraries used in this project
+
+# Numerical computing and statistical analysis
+numpy>=1.19.0
+
+# Data visualization and plotting
+matplotlib>=3.3.0
+
+# Progress tracking and user experience enhancement
+tqdm>=4.60.0
+
+# Jupyter notebook support (for development and analysis)
+jupyter>=1.0.0
+ipykernel>=6.0.0
+
+# Optional: Enhanced plotting styles
+seaborn>=0.11.0
+
+# Optional: Advanced text processing
+nltk>=3.6.0
+
+# Optional: Performance optimization
+numba>=0.56.0
+
