@@ -1,0 +1,25 @@
+# Custom Convolutional Neural Network Framework Requirements
+# Core Python libraries used in this project
+
+# Numerical computing and matrix operations
+numpy>=1.19.0
+
+# Data manipulation and analysis
+pandas>=1.3.0
+
+# Interactive computing and display
+ipython>=7.0.0
+jupyter>=1.0.0
+
+# Optional: Enhanced visualization
+matplotlib>=3.3.0
+
+# Optional: Performance optimization
+numba>=0.56.0
+
+# Optional: Advanced mathematical functions
+scipy>=1.7.0
+
+# Note: This project implements CNN algorithms from scratch
+# and does not rely on external deep learning libraries like PyTorch or TensorFlow
+# All convolution, activation, and classification logic is custom-built using NumPy
